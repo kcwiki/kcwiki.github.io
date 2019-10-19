@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FishColle</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" href="/fish/index.css" />
+  </head>
+  <body>
+    <div class="container">
+      <nav class="breadcrumb is-centered has-bullet-separator" aria-label="breadcrumbs">
+        <ul>
+          <li class="is-active"><a href="/fish/" aria-current="page">Hourly</a></li>
+          <li><a href="/fish/daily">Daily</a></li>
+          <li><a href="/fish/player-drops">Player (node drops)</a></li>
+          <li><a href="/fish/player-battles">Player (node battles)</a></li>
+          <li><a href="/fish/player-map-battles">Player (map battles)</a></li>
+          <li><a href="/fish/player-world-battles">Player (world battles)</a></li>
+        </ul>
+      </nav>
+    </div>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="/fish/data/hourly.js"></script>
+    <script src="/fish/index.js"></script>
+  </body>
+</html>

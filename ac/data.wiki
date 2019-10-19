@@ -1,0 +1,523 @@
+{|class="wikitable sortable"
+!Rarity!!Ship!!Name!!Source!!Image
+|-
+|3||[[Admiral]]||Admiral Mura||[https://www.pixiv.net/artworks/69785831 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_admiral_mura.jpg]</span>
+|-
+|3||[[Abyssal]]||Air Defense Hime||[https://www.pixiv.net/artworks/68790083 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_air_defense_hime.jpg]</span>
+|-
+|3||[[Yamashiro]]||Bashful Yamashiro||[https://www.pixiv.net/artworks/58024565 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_bashful_yamashiro.jpg]</span>
+|-
+|3||[[Admiral]]<br>[[Asagumo]]<br>[[Fusou]]<br>[[Michishio]]<br>[[Yamagumo]]<br>[[Yamashiro]]||Battle Of Surigao Strait||[https://www.pixiv.net/artworks/50347932 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_battle_of_surigao_strait.jpg]</span>
+|-
+|3||[[Mutsu]]<br>[[Nagato]]||Beach Secretaries||[https://www.pixiv.net/artworks/52404675 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_beach_secretaries.jpg]</span>
+|-
+|3||[[Naganami]]||Break For Bubble Tea||[https://www.pixiv.net/artworks/76354107 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_break_for_bubble_tea.jpg]</span>
+|-
+|3||[[Shoukaku]]<br>[[Zuikaku]]||Cardiv 5 Maids||[https://www.pixiv.net/artworks/58293199 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_cardiv_5_maids.jpg]</span>
+|-
+|3||[[Shigure]]||Date With Shigure||[https://www.pixiv.net/artworks/60380013 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_date_with_shigure.jpg]</span>
+|-
+|3||[[I-58]]||Dechi Note||[https://www.pixiv.net/artworks/48569125 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_dechi_note.jpg]</span>
+|-
+|3||[[Akigumo]]<br>[[Kazagumo]]||Doujin Circle Autumn Cloud||[https://seiga.nicovideo.jp/seiga/im8934535 nicovideo]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_doujin_circle_autumn_cloud.jpg]</span>
+|-
+|3||[[Abyssal]]||European Hime||[https://seiga.nicovideo.jp/seiga/im6992439 nicovideo]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_european_hime.jpg]</span>
+|-
+|3||[[Admiral]]<br>[[Hibiki]]<br>[[Inazuma]]||Kamio Reiji||[https://www.pixiv.net/artworks/65462198 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_kamio_reiji.jpg]</span>
+|-
+|3||[[Asashimo]]<br>[[Ashigara]]<br>[[Kasumi]]<br>[[Kiyoshimo]]<br>[[Ooyodo]]||Kimura Raiding Force||[https://www.pixiv.net/artworks/58346231 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_kimura_raiding_force.jpg]</span>
+|-
+|3||[[Admiral]]||Narumi Tsuyu||[https://www.pixiv.net/artworks/52198198 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_narumi_tsuyu.jpg]</span>
+|-
+|3||[[Asagumo]]<br>[[Fusou]]<br>[[Michishio]]<br>[[Mogami]]<br>[[Shigure]]<br>[[Yamagumo]]<br>[[Yamashiro]]||Nishimura Fleet||[https://www.pixiv.net/artworks/66469254 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_nishimura_fleet.jpg]</span>
+|-
+|3||[[Akagi]]||Onee-sie Akagi||[https://www.pixiv.net/artworks/48453671 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_onee-sie_akagi.jpg]</span>
+|-
+|3||[[Kasumi]]||Operation Ten-go||[https://www.pixiv.net/artworks/54814831 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_operation_ten-go.jpg]</span>
+|-
+|3||[[Shimakaze]]||Schoolday Shimakaze||[https://www.pixiv.net/artworks/39406050 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_schoolday_shimakaze.jpg]</span>
+|-
+|3||[[Shiranui]]||Shiranui Sparkle||[https://twitter.com/ebihurya332/status/1171107526705737728 ebihurya332]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_shiranui_sparkle.jpg]</span>
+|-
+|3||[[Amatsukaze]]||Soda For The Admiral||[https://www.pixiv.net/artworks/45049727 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_soda_for_the_admiral.jpg]</span>
+|-
+|3||[[Shimakaze]]||Surfing Shimakaze||[https://www.pixiv.net/artworks/40586032 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_surfing_shimakaze.jpg]</span>
+|-
+|3||[[Admiral]]||T-head Admiral||[https://www.pixiv.net/artworks/38442034 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_t-head_admiral.jpg]</span>
+|-
+|3||[[Kaga]]||Traditional Dress||[https://www.pixiv.net/artworks/63793011 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_traditional_dress.jpg]</span>
+|-
+|3||[[Musashi]]<br>[[Yamato]]||Yamato Class Sisters||[https://www.pixiv.net/artworks/56478934 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_yamato_class_sisters.jpg]</span>
+|-
+|3||[[Admiral]]<br>[[Mochizuki]]||Yume No Owari||[https://www.pixiv.net/artworks/58113122 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/3_yume_no_owari.jpg]</span>
+|-
+|2||[[Hibiki]]||Admiral Hibiki||[https://www.pixiv.net/artworks/54317550 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_admiral_hibiki.jpg]</span>
+|-
+|2||[[Agano]]<br>[[Noshiro]]<br>[[Sakawa]]<br>[[Yahagi]]||Agano Class||[https://twitter.com/i/web/status/979749100047384576 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_agano_class.jpg]</span>
+|-
+|2||[[Abyssal]]||Aircraft Carrier Princess||[https://www.pixiv.net/artworks/51609463 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_aircraft_carrier_princess.jpg]</span>
+|-
+|2||[[Akitsushima]]||Akitsushimas Seaplane||[https://www.pixiv.net/artworks/50783647 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_akitsushimas_seaplane.jpg]</span>
+|-
+|2||[[Amatsukaze]]||Amatsukaze In Action||[https://www.pixiv.net/artworks/54256793 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_amatsukaze_in_action.jpg]</span>
+|-
+|2||[[Abyssal]]||Ancient Destroyer Hime||[https://www.pixiv.net/artworks/62053675 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_ancient_destroyer_hime.jpg]</span>
+|-
+|2||[[Abyssal]]||Anti-submarine Warfare||[https://www.pixiv.net/artworks/65480666 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_anti-submarine_warfare.jpg]</span>
+|-
+|2||[[Arare]]<br>[[Arashio]]<br>[[Asagumo]]<br>[[Asashio]]<br>[[Kasumi]]<br>[[Michishio]]<br>[[Ooshio]]<br>[[Yamagumo]]||Asashio Class||[https://www.pixiv.net/artworks/56744855 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_asashio_class.jpg]</span>
+|-
+|2||[[Atago]]||Atago Victory Pose||[https://www.pixiv.net/artworks/55189820 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_atago_victory_pose.jpg]</span>
+|-
+|2||[[Kiyoshimo]]||Battleship Kiyoshimo||[https://twitter.com/i/web/status/1111229621331070977 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_battleship_kiyoshimo.jpg]</span>
+|-
+|2||[[Johnston]]||Bikini Johnston||[https://www.pixiv.net/artworks/76540695 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_bikini_johnston.jpg]</span>
+|-
+|2||[[Ark Royal]]<br>[[Bismarck]]||Bismarck And Ark Royal||[https://seiga.nicovideo.jp/seiga/im8786811 nicovideo]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_bismarck_and_ark_royal.jpg]</span>
+|-
+|2||[[Ooyodo]]||Bunny Ooyodo||[https://www.pixiv.net/artworks/67600803 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_bunny_ooyodo.jpg]</span>
+|-
+|2||[[Hiryuu]]<br>[[Soryuu]]||Bunny Soryuu And Hiryuu||[https://www.pixiv.net/artworks/71372485 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_bunny_soryuu_and_hiryuu.jpg]</span>
+|-
+|2||[[Suzutsuki]]||Bunnysuit Suzutsuki||[https://twitter.com/6thbody/status/970322104112459776 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_bunnysuit_suzutsuki.jpg]</span>
+|-
+|2||[[Taihou]]||Bunnysuit Taihou||[https://twitter.com/6thbody/status/875344195631759360 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_bunnysuit_taihou.jpg]</span>
+|-
+|2||[[Aquila]]<br>[[Saratoga]]||Carrier Maids||[https://twitter.com/6thbody/status/1126851415014379521 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_carrier_maids.jpg]</span>
+|-
+|2||[[Haruna]]||Catgirl Haruna||[https://www.pixiv.net/artworks/50158780 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_catgirl_haruna.jpg]</span>
+|-
+|2||[[Shigure]]||Cherry Blossom Shigure||[https://www.pixiv.net/artworks/73618894 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_cherry_blossom_shigure.jpg]</span>
+|-
+|2||[[Chitose]]<br>[[Chiyoda]]||Chitose Sisters||[https://danbooru.donmai.us/posts/1537448 danbooru]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_chitose_sisters.jpg]</span>
+|-
+|2||[[Akigumo]]<br>[[Makigumo]]||Comiket Visit||[https://www.pixiv.net/artworks/42005281 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_comiket_visit.jpg]</span>
+|-
+|2||[[Nagato]]<br>[[Prinz Eugen]]<br>[[Sakawa]]||Crossroads Reunion||[https://twitter.com/i/web/status/710045170922692609 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_crossroads_reunion.jpg]</span>
+|-
+|2||[[Hamakaze]]<br>[[Isokaze]]<br>[[Tanikaze]]<br>[[Urakaze]]||Destroyer Division 17||[https://twitter.com/i/web/status/1085910562624614400 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_destroyer_division_17.jpg]</span>
+|-
+|2||[[Arare]]<br>[[Kagerou]]<br>[[Kasumi]]<br>[[Shiranui]]||Destroyer Division 18||[https://danbooru.donmai.us/posts/3065477 danbooru]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_destroyer_division_18.jpg]</span>
+|-
+|2||[[Abyssal]]||Destroyer Hime||[https://www.pixiv.net/artworks/56198936 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_destroyer_hime.jpg]</span>
+|-
+|2||[[Admiral]]<br>[[Kongou]]||Doting On Kongou||[https://www.pixiv.net/artworks/55853361 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_doting_on_kongou.jpg]</span>
+|-
+|2||[[Duca degli Abruzzi]]<br>[[Giuseppe Garibaldi]]||Duca Degli Abruzzi Class||[https://www.pixiv.net/artworks/76512645 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_duca_degli_abruzzi_class.jpg]</span>
+|-
+|2||[[Admiral]]<br>[[Shigure]]<br>[[Taigei]]||End Of Summer||[https://www.pixiv.net/artworks/58769396 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_end_of_summer.jpg]</span>
+|-
+|2||[[Fubuki]]<br>[[Hatsuyuki]]<br>[[Isonami]]<br>[[Miyuki]]<br>[[Murakumo]]<br>[[Shirayuki]]<br>[[Uranami]]||Fubuki Class||[https://www.pixiv.net/artworks/54546573 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_fubuki_class.jpg]</span>
+|-
+|2||[[Kashima]]||Garden Duty Kashima||[https://www.pixiv.net/artworks/58397125 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_garden_duty_kashima.jpg]</span>
+|-
+|2||[[Graf Zeppelin]]||Graf Zeppelins Me Time||[https://www.pixiv.net/artworks/54303546 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_graf_zeppelins_me_time.jpg]</span>
+|-
+|2||[[Abyssal]]||Harbor Summer Princess||[https://www.pixiv.net/artworks/58632284 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_harbor_summer_princess.jpg]</span>
+|-
+|2||[[Haruna]]||Haruna Lends A Hand||[https://www.pixiv.net/artworks/54911377 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_haruna_lends_a_hand.jpg]</span>
+|-
+|2||[[Hibiki]]||Hibikis Cuddly Pet||[https://www.pixiv.net/artworks/60926319 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_hibikis_cuddly_pet.jpg]</span>
+|-
+|2||[[I-13]]<br>[[I-14]]||Hitomi And Iyo||[https://www.pixiv.net/artworks/61715042 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_hitomi_and_iyo.jpg]</span>
+|-
+|2||[[Inazuma]]||Inazuma Unleashed||[https://www.pixiv.net/artworks/54984467 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_inazuma_unleashed.jpg]</span>
+|-
+|2||[[Isuzu]]||Isuzus Holiday||[https://www.pixiv.net/artworks/65040818 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_isuzus_holiday.jpg]</span>
+|-
+|2||[[Janus]]<br>[[Jervis]]||Janus And Jervis||[https://twitter.com/i/web/status/1176822078961381376 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_janus_and_jervis.jpg]</span>
+|-
+|2||[[Yura]]||Jumping Right In||[https://www.pixiv.net/artworks/53626810 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_jumping_right_in.jpg]</span>
+|-
+|2||[[Kasumi]]||Kasumi On The Beach||[https://twitter.com/i/web/status/1129915398474743809 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_kasumi_on_the_beach.jpg]</span>
+|-
+|2||[[Kongou]]||Kongou Barrage||[https://www.pixiv.net/artworks/55501143 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_kongou_barrage.jpg]</span>
+|-
+|2||[[Haruna]]<br>[[Hiei]]<br>[[Kirishima]]<br>[[Kongou]]||Kongou Class||[https://www.pixiv.net/artworks/40143576 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_kongou_class.jpg]</span>
+|-
+|2||[[Kiso]]<br>[[Kitakami]]<br>[[Kuma]]<br>[[Ooi]]<br>[[Tama]]||Kuma Class||[https://www.pixiv.net/artworks/64171933 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_kuma_class.jpg]</span>
+|-
+|2||[[Kumano]]<br>[[Suzuya]]||Kumano And Suzuya||[https://www.pixiv.net/artworks/40229390 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_kumano_and_suzuya.jpg]</span>
+|-
+|2||[[Abyssal]]||Light Cruiser Oni||[https://www.pixiv.net/artworks/55627486 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_light_cruiser_oni.jpg]</span>
+|-
+|2||[[Hamakaze]]||Light Snack||[https://twitter.com/kirishina_maru/status/932023203001655297 kirishina_maru]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_light_snack.jpg]</span>
+|-
+|2||[[Abyssal]]||Like Royalty||[https://www.pixiv.net/artworks/73995187 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_like_royalty.jpg]</span>
+|-
+|2||[[Maikaze]]<br>[[Nowaki]]||Maikaze And Nowaki||[https://twitter.com/i/web/status/537254029898686465 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_maikaze_and_nowaki.jpg]</span>
+|-
+|2||[[Admiral]]||Mangaka Admiral||[https://www.pixiv.net/artworks/51860149 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_mangaka_admiral.jpg]</span>
+|-
+|2||[[Maruyu]]||Maruyu-san||[https://www.pixiv.net/artworks/45062108 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_maruyu-san.jpg]</span>
+|-
+|2||[[Maya]]||Maya Kai Ni||[https://www.pixiv.net/artworks/55974701 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_maya_kai_ni.jpg]</span>
+|-
+|2||[[Chitose]]||Moonlight Chitose||[https://www.pixiv.net/artworks/43876295 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_moonlight_chitose.jpg]</span>
+|-
+|2||[[Fumizuki]]<br>[[Kikuzuki]]<br>[[Kisaragi]]<br>[[Mikazuki]]<br>[[Minazuki]]<br>[[Mochizuki]]<br>[[Mutsuki]]<br>[[Nagatsuki]]<br>[[Satsuki]]<br>[[Uzuki]]<br>[[Yayoi]]||Mutsuki Class||[https://www.pixiv.net/artworks/62619556 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_mutsuki_class.jpg]</span>
+|-
+|2||[[Ashigara]]<br>[[Haguro]]<br>[[Myoukou]]<br>[[Nachi]]||Myoukou Class||[https://www.pixiv.net/artworks/68766524 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_myoukou_class.jpg]</span>
+|-
+|2||[[Abyssal]]||Northern Imouto||[https://www.pixiv.net/artworks/74892478 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_northern_imouto.jpg]</span>
+|-
+|2||[[Abyssal]]||Pacific Princess||[https://www.pixiv.net/artworks/75304671 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_pacific_princess.jpg]</span>
+|-
+|2||[[Hiei]]<br>[[Isokaze]]||Poison Cooking||[https://www.pixiv.net/artworks/50585009 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_poison_cooking.jpg]</span>
+|-
+|2||[[Ro-500]]||Ro-500 Assault||[https://www.pixiv.net/artworks/76250917 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_ro-500_assault.jpg]</span>
+|-
+|2||[[Ark Royal]]<br>[[Warspite]]||Royalties||[https://danbooru.donmai.us/posts/3107693 danbooru]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_royalties.jpg]</span>
+|-
+|2||[[Ryuujou]]||Ryuujous Day Off||[https://twitter.com/wotake_fox/status/969925595344728064 wotake_fox]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_ryuujous_day_off.jpg]</span>
+|-
+|2||[[Uzuki]]||Sanma Uzuki||[https://www.pixiv.net/artworks/71934438 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_sanma_uzuki.jpg]</span>
+|-
+|2||[[Kaga]]<br>[[Zuikaku]]||Secret Friends||[https://twitter.com/zakii03/status/982257778419888130 zakii03]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_secret_friends.jpg]</span>
+|-
+|2||[[Sendai]]||Send-ice To Sendai||[https://www.pixiv.net/artworks/75762812 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_send-ice_to_sendai.jpg]</span>
+|-
+|2||[[Harusame]]<br>[[Kawakaze]]<br>[[Murasame]]<br>[[Samidare]]<br>[[Shigure]]<br>[[Shiratsuyu]]<br>[[Suzukaze]]<br>[[Umikaze]]<br>[[Yamakaze]]<br>[[Yuudachi]]||Shiratsuyu Class||[https://www.pixiv.net/artworks/73080009 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_shiratsuyu_class.jpg]</span>
+|-
+|2||[[Shoukaku]]||Shoukaku Shrine Visit||[https://www.pixiv.net/artworks/53671536 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_shoukaku_shrine_visit.jpg]</span>
+|-
+|2||[[Shoukaku]]<br>[[Zuikaku]]||Shoukaku-class Carriers||[https://www.pixiv.net/artworks/42685076 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_shoukaku-class_carriers.jpg]</span>
+|-
+|2||[[Yamato]]||Snow Yamato||[https://www.pixiv.net/artworks/40988309 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_snow_yamato.jpg]</span>
+|-
+|2||[[Tenryuu]]||Solemn Tenryuu||[https://www.pixiv.net/artworks/53543395 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_solemn_tenryuu.jpg]</span>
+|-
+|2||[[Gangut]]<br>[[Hibiki]]<br>[[Tashkent]]||Soviet Comrades||[https://www.pixiv.net/artworks/68291584 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_soviet_comrades.jpg]</span>
+|-
+|2||[[Gotland]]||Starter Ship Gotland||[https://twitter.com/i/web/status/1154868767878332416 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_starter_ship_gotland.jpg]</span>
+|-
+|2||[[Suzutsuki]]||Suzutsuki||[https://www.pixiv.net/artworks/65004850 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_suzutsuki.jpg]</span>
+|-
+|2||[[Kasumi]]||Swimsuit Kasumi||[https://www.pixiv.net/artworks/76004343 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_swimsuit_kasumi.jpg]</span>
+|-
+|2||[[Murasame]]||Swimsuit Murasame||[https://www.pixiv.net/artworks/76773313 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_swimsuit_murasame.jpg]</span>
+|-
+|2||[[Kamikaze]]||Sword Maiden Kamikaze||[https://www.pixiv.net/artworks/56747514 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_sword_maiden_kamikaze.jpg]</span>
+|-
+|2||[[Tsushima]]||The Ghost Of Tsushima||[https://www.pixiv.net/artworks/68771066 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_the_ghost_of_tsushima.jpg]</span>
+|-
+|2||[[Matsukaze]]||Travel Partners||[https://www.pixiv.net/artworks/76332793 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_travel_partners.jpg]</span>
+|-
+|2||[[Shoukaku]]<br>[[Zuikaku]]||Tropical Cardiv 5||[https://www.pixiv.net/artworks/51823456 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_tropical_cardiv_5.jpg]</span>
+|-
+|2||[[Akebono]]||Twintails Akebono||[https://www.pixiv.net/artworks/75843566 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_twintails_akebono.jpg]</span>
+|-
+|2||[[Amagi]]<br>[[Katsuragi]]<br>[[Unryuu]]||Unryuu Sisters||[https://twitter.com/i/web/status/706433720538902530 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_unryuu_sisters.jpg]</span>
+|-
+|2||[[Hibiki]]||Verniy Jelly Roll||[https://www.pixiv.net/artworks/60421508 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_verniy_jelly_roll.jpg]</span>
+|-
+|2||[[Graf Zeppelin]]||Waterlogged Graf Zeppelin||[https://www.pixiv.net/artworks/63750218 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_waterlogged_graf_zeppelin.jpg]</span>
+|-
+|2||[[Abyssal]]||White And Black||[https://www.pixiv.net/artworks/61695488 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_white_and_black.jpg]</span>
+|-
+|2||[[Uzuki]]<br>[[Yayoi]]||Yayoi And Uzuki||[https://www.pixiv.net/artworks/43037678 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_yayoi_and_uzuki.jpg]</span>
+|-
+|2||[[Yukikaze]]||Yukikazes Day Off||[https://twitter.com/i/web/status/1161230468282384385 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_yukikazes_day_off.jpg]</span>
+|-
+|2||[[Akigumo]]<br>[[Asashimo]]<br>[[Hayashimo]]<br>[[Kazagumo]]<br>[[Kiyoshimo]]<br>[[Makigumo]]<br>[[Naganami]]<br>[[Takanami]]<br>[[Yuugumo]]||Yuugumo Class||[https://twitter.com/i/web/status/676010015921049604 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/2_yuugumo_class.jpg]</span>
+|-
+|1||[[Abukuma]]||Abukuma||[https://seiga.nicovideo.jp/seiga/im9144665 nicovideo]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_abukuma.jpg]</span>
+|-
+|1||[[Abyssal]]||Abyssal Headquarters||[https://www.pixiv.net/artworks/63740665 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_abyssal_headquarters.jpg]</span>
+|-
+|1||[[Akagi]]<br>[[Akigumo]]<br>[[Mamiya]]||Airstrip Sushi Bar||[https://www.pixiv.net/artworks/52304276 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_airstrip_sushi_bar.jpg]</span>
+|-
+|1||[[Akagi]]||Akagi-too||[https://twitter.com/38runy/status/930810266505244672 38runy]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_akagi-too.jpg]</span>
+|-
+|1||[[Akebono]]||Akebono||[https://twitter.com/i/web/status/990137929027629056 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_akebono.jpg]</span>
+|-
+|1||[[Akigumo]]||Akigumo||[https://www.pixiv.net/artworks/39672163 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_akigumo.jpg]</span>
+|-
+|1||[[Akitsu Maru]]||Akitsu Maru||[https://www.pixiv.net/artworks/40787499 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_akitsu_maru.jpg]</span>
+|-
+|1||[[Akitsushima]]||Akitsushima Lookout||[https://www.pixiv.net/artworks/73214251 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_akitsushima_lookout.jpg]</span>
+|-
+|1||[[Akizuki]]||Akizuki||[https://twitter.com/rin7914/status/536112772967178240 rin7914]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_akizuki.jpg]</span>
+|-
+|1||[[Amatsukaze]]||Amatsukaze Pose||[https://www.pixiv.net/artworks/43258459 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_amatsukaze_pose.jpg]</span>
+|-
+|1||[[Amatsukaze]]||Amatsukaze Torpedo Twirl||[https://www.pixiv.net/artworks/54171824 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_amatsukaze_torpedo_twirl.jpg]</span>
+|-
+|1||[[Arashio]]||Ara Ara Arashio||[https://www.pixiv.net/artworks/70987460 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_ara_ara_arashio.jpg]</span>
+|-
+|1||[[Ark Royal]]||Ark Royal||[https://twitter.com/i/web/status/922048222171820033 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_ark_royal.jpg]</span>
+|-
+|1||[[Asagumo]]||Asagumo||[https://twitter.com/anti_twt/status/627102941497851904 anti_twt]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_asagumo.jpg]</span>
+|-
+|1||[[Asashio]]||Asashio||[https://www.pixiv.net/artworks/54799878 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_asashio.jpg]</span>
+|-
+|1||[[Ushio]]||Bashful Ushio||[https://seiga.nicovideo.jp/seiga/im4458943 nicovideo]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_bashful_ushio.jpg]</span>
+|-
+|1||[[Bismarck]]||Bismarck||[https://www.pixiv.net/artworks/43218841 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_bismarck.jpg]</span>
+|-
+|1||[[Hatsuzuki]]||Blushing Hatsuzuki||[https://www.pixiv.net/artworks/55400832 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_blushing_hatsuzuki.jpg]</span>
+|-
+|1||[[Kongou]]||British Invaders||[https://www.pixiv.net/artworks/40385343 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_british_invaders.jpg]</span>
+|-
+|1||[[Mikazuki]]||Bunny Mikazuki||[https://www.pixiv.net/artworks/67083989 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_bunny_mikazuki.jpg]</span>
+|-
+|1||[[Hatsuzuki]]||Bunnysuit Hatsuzuki||[https://twitter.com/6thbody/status/981184249544888321 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_bunnysuit_hatsuzuki.jpg]</span>
+|-
+|1||[[Hayashimo]]||Bunnysuit Hayashimo||[https://twitter.com/6thbody/status/970680335787704320 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_bunnysuit_hayashimo.jpg]</span>
+|-
+|1||[[Zara]]||Bunnysuit Zara||[https://twitter.com/6thbody/status/1149307710023749632 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_bunnysuit_zara.jpg]</span>
+|-
+|1||[[Amagi]]||Camouflaged Amagi||[https://www.pixiv.net/artworks/48948992 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_camouflaged_amagi.jpg]</span>
+|-
+|1||[[Shoukaku]]<br>[[Zuikaku]]||Cardiv 5 Sundresses||[https://www.pixiv.net/artworks/44552533 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_cardiv_5_sundresses.jpg]</span>
+|-
+|1||[[Amagi]]||Carrier Amagi||[https://www.pixiv.net/artworks/60508045 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_carrier_amagi.jpg]</span>
+|-
+|1||[[Chitose]]||Carrier Chitose||[https://www.pixiv.net/artworks/53149578 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_carrier_chitose.jpg]</span>
+|-
+|1||[[Unryuu]]||Carrier Unryuu||[https://www.pixiv.net/artworks/45961964 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_carrier_unryuu.jpg]</span>
+|-
+|1||[[Zuihou]]||Carrier Zuihou||[https://www.pixiv.net/artworks/42678429 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_carrier_zuihou.jpg]</span>
+|-
+|1||[[Hibiki]]||Catgirl Hibiki||[https://www.pixiv.net/artworks/62943298 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_catgirl_hibiki.jpg]</span>
+|-
+|1||[[Chiyoda]]||Chiyoda||[https://www.pixiv.net/artworks/52440949 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_chiyoda.jpg]</span>
+|-
+|1||[[Naka]]||Cleaning Duty Naka||[https://www.pixiv.net/artworks/47265666 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_cleaning_duty_naka.jpg]</span>
+|-
+|1||[[Colorado]]||Colorado||[https://twitter.com/i/web/status/1182289073538400257 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_colorado.jpg]</span>
+|-
+|1||[[Amatsukaze]]||Common Amatsukaze||[https://www.pixiv.net/artworks/60256390 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_common_amatsukaze.jpg]</span>
+|-
+|1||[[Admiral]]<br>[[Kazagumo]]||Cooling Off In A Raft||[https://www.pixiv.net/artworks/58769396 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_cooling_off_in_a_raft.jpg]</span>
+|-
+|1||[[Matsuwa]]||Crybaby Matsuwa||[https://seiga.nicovideo.jp/seiga/im6992679 nicovideo]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_crybaby_matsuwa.jpg]</span>
+|-
+|1||[[Yukikaze]]||Day Off||[https://www.pixiv.net/artworks/76606294 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_day_off.jpg]</span>
+|-
+|1||[[Kasuga Maru]]||Escort Carrier Shinyou||[https://www.pixiv.net/artworks/70717860 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_escort_carrier_shinyou.jpg]</span>
+|-
+|1||[[Kasuga Maru]]||Escort Carrier Taiyou||[https://twitter.com/i/web/status/1174703979504132096 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_escort_carrier_taiyou.jpg]</span>
+|-
+|1||[[Etorofu]]||Etorofu||[https://www.pixiv.net/artworks/62892380 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_etorofu.jpg]</span>
+|-
+|1||[[I-26]]||Finding Nimu||[https://www.pixiv.net/artworks/58415973 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_finding_nimu.jpg]</span>
+|-
+|1||[[Fubuki]]||Fubuki||[https://twitter.com/i/web/status/1175045001400569856 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_fubuki.jpg]</span>
+|-
+|1||[[Fumizuki]]||Fumizuki||[https://www.pixiv.net/artworks/47844063 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_fumizuki.jpg]</span>
+|-
+|1||[[Gambier Bay]]||Gambier Bay||[https://twitter.com/i/web/status/974284865200795650 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_gambier_bay.jpg]</span>
+|-
+|1||[[Akebono]]||Geared Up Akebono||[https://www.pixiv.net/artworks/41777927 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_geared_up_akebono.jpg]</span>
+|-
+|1||[[Amatsukaze]]||Gift From Amatsukaze||[https://www.pixiv.net/artworks/73202509 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_gift_from_amatsukaze.jpg]</span>
+|-
+|1||[[Giuseppe Garibaldi]]||Giuseppe Garibaldi||[https://www.pixiv.net/artworks/74898871 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_giuseppe_garibaldi.jpg]</span>
+|-
+|1||[[Gotland]]||Gotland||[https://www.pixiv.net/artworks/71658227 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_gotland.jpg]</span>
+|-
+|1||[[Wakaba]]||Gun Wakaba||[https://www.pixiv.net/artworks/55881810 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_gun_wakaba.jpg]</span>
+|-
+|1||[[Hamakaze]]||Hamakaze||[https://www.pixiv.net/artworks/42601052 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_hamakaze.jpg]</span>
+|-
+|1||[[Yayoi]]||Happy Yayoi||[https://www.pixiv.net/artworks/65582350 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_happy_yayoi.jpg]</span>
+|-
+|1||[[Haruna]]||Haruna Crumpets||[https://www.pixiv.net/artworks/58699642 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_haruna_crumpets.jpg]</span>
+|-
+|1||[[Haruna]]||Haruna Volley||[https://www.pixiv.net/artworks/50158780 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_haruna_volley.jpg]</span>
+|-
+|1||[[Harusame]]||Harusame||[https://www.pixiv.net/artworks/45456249 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_harusame.jpg]</span>
+|-
+|1||[[Hatsukaze]]||Hatsukaze||[https://www.pixiv.net/artworks/43395147 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_hatsukaze.jpg]</span>
+|-
+|1||[[Kumano]]||Heavy Cruiser Kumano||[https://www.pixiv.net/artworks/38943009 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_heavy_cruiser_kumano.jpg]</span>
+|-
+|1||[[Suzuya]]||Heavy Cruiser Suzuya||[https://www.pixiv.net/artworks/40260687 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_heavy_cruiser_suzuya.jpg]</span>
+|-
+|1||[[Hiei]]||Hiei Baked Sweets||[https://www.pixiv.net/artworks/58699642 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_hiei_baked_sweets.jpg]</span>
+|-
+|1||[[Asashio]]||Idea Bulb||[https://www.pixiv.net/artworks/76047909 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_idea_bulb.jpg]</span>
+|-
+|1||[[Fumizuki]]||Innocent Fumizuki||[https://www.pixiv.net/artworks/48408354 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_innocent_fumizuki.jpg]</span>
+|-
+|1||[[Isokaze]]||Isokaze||[https://twitter.com/i/web/status/1073933633688236032 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_isokaze.jpg]</span>
+|-
+|1||[[Kaga]]||Kaga Victory Pose||[https://www.pixiv.net/artworks/52335768 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kaga_victory_pose.jpg]</span>
+|-
+|1||[[Kaga]]||Kagatoo||[https://twitter.com/38runy/status/930810266505244672 38runy]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kagatoo.jpg]</span>
+|-
+|1||[[Kasumi]]||Kasumi Model B||[https://www.pixiv.net/artworks/54852639 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kasumi_model_b.jpg]</span>
+|-
+|1||[[Katsuragi]]||Katsuragi||[https://www.pixiv.net/artworks/50082396 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_katsuragi.jpg]</span>
+|-
+|1||[[Kikuzuki]]||Kikuzuki||[https://danbooru.donmai.us/posts/1732373 danbooru]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kikuzuki.jpg]</span>
+|-
+|1||[[Agano]]||Kirari-n Agano||[https://www.pixiv.net/artworks/53320096 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kirari-n_agano.jpg]</span>
+|-
+|1||[[Kirishima]]||Kirishima Shortcake||[https://www.pixiv.net/artworks/58699642 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kirishima_shortcake.jpg]</span>
+|-
+|1||[[Kitakami]]<br>[[Ooi]]||Kitakami And Ooi||[https://www.pixiv.net/artworks/54076616 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kitakami_and_ooi.jpg]</span>
+|-
+|1||[[Kongou]]||Kongou Tea Time||[https://www.pixiv.net/artworks/56004360 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_kongou_tea_time.jpg]</span>
+|-
+|1||[[Z1]]||Leberecht Maass||[https://www.pixiv.net/artworks/42434608 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_leberecht_maass.jpg]</span>
+|-
+|1||[[Libeccio]]||Libeccio||[https://www.pixiv.net/artworks/51918496 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_libeccio.jpg]</span>
+|-
+|1||[[Fumizuki]]||Lovely Fumizuki||[https://www.pixiv.net/artworks/48159048 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_lovely_fumizuki.jpg]</span>
+|-
+|1||[[Luigi Torelli]]||Luigi Torelli||[https://www.pixiv.net/artworks/64534816 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_luigi_torelli.jpg]</span>
+|-
+|1||[[Shigure]]||Maid Shigure||[https://www.pixiv.net/artworks/49954862 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_maid_shigure.jpg]</span>
+|-
+|1||[[Taihou]]||Maid Taihou||[https://www.pixiv.net/artworks/69147314 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_maid_taihou.jpg]</span>
+|-
+|1||[[Hibiki]]||Marine Hibiki||[https://www.pixiv.net/artworks/49031075 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_marine_hibiki.jpg]</span>
+|-
+|1||[[Z3]]||Max Schultz||[https://www.pixiv.net/artworks/42614082 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_max_schultz.jpg]</span>
+|-
+|1||[[Murakumo]]||Melancholy Murakumo||[https://twitter.com/6thbody/status/779917033597054976 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_melancholy_murakumo.jpg]</span>
+|-
+|1||[[Michishio]]||Michishio||[https://www.pixiv.net/artworks/66082789 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_michishio.jpg]</span>
+|-
+|1||[[Mikazuki]]||Mikazuki Bliss||[https://www.pixiv.net/artworks/64656842 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_mikazuki_bliss.jpg]</span>
+|-
+|1||[[Minazuki]]||Minazuki Pose||[https://www.pixiv.net/artworks/63489105 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_minazuki_pose.jpg]</span>
+|-
+|1||[[Minegumo]]||Minegumo||[https://www.pixiv.net/artworks/76665337 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_minegumo.jpg]</span>
+|-
+|1||[[Mochizuki]]||Mochizuki||[https://www.pixiv.net/artworks/59119832 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_mochizuki.jpg]</span>
+|-
+|1||[[Maruyu]]||Mole-chan Maruyu||[https://www.pixiv.net/artworks/40667252 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_mole-chan_maruyu.jpg]</span>
+|-
+|1||[[Iowa]]||Most Volleyball Iowa||[https://www.pixiv.net/artworks/55428020 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_most_volleyball_iowa.jpg]</span>
+|-
+|1||[[Murakumo]]||Murakumos Bikini||[https://twitter.com/6thbody/status/1015141851219705856 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_murakumos_bikini.jpg]</span>
+|-
+|1||[[Murasame]]||Murasame||[https://twitter.com/i/web/status/1087822729103855616 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_murasame.jpg]</span>
+|-
+|1||[[Nagatsuki]]||Nagatsuki||[https://www.pixiv.net/artworks/74756460 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_nagatsuki.jpg]</span>
+|-
+|1||[[Nelson]]||Nelson||[https://www.pixiv.net/artworks/71157827 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_nelson.jpg]</span>
+|-
+|1||[[Abyssal]]||Northern Princess||[https://www.pixiv.net/artworks/54218556 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_northern_princess.jpg]</span>
+|-
+|1||[[Abyssal]]||Northern Princess Sisters||[https://www.pixiv.net/artworks/74903603 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_northern_princess_sisters.jpg]</span>
+|-
+|1||[[Noshiro]]||Noshiro||[https://twitter.com/i/web/status/938055881614245888 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_noshiro.jpg]</span>
+|-
+|1||[[Nagatsuki]]||Nyagatsuki||[https://www.pixiv.net/artworks/73963958 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_nyagatsuki.jpg]</span>
+|-
+|1||[[Abyssal]]||Oni Tsundere||[https://www.pixiv.net/artworks/69598518 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_oni_tsundere.jpg]</span>
+|-
+|1||[[Ooshio]]||Ooshio||[https://twitter.com/i/web/status/1149770808715169792 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_ooshio.jpg]</span>
+|-
+|1||[[Sendai]]||Pre-night Battle Smile||[https://www.pixiv.net/artworks/66181233 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_pre-night_battle_smile.jpg]</span>
+|-
+|1||[[Ooi]]||Present From Ooi||[https://twitter.com/6thbody/status/963416967318192128 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_present_from_ooi.jpg]</span>
+|-
+|1||[[Abyssal]]<br>[[Admiral]]||Princess Meets Prince||[https://www.pixiv.net/artworks/45983656 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_princess_meets_prince.jpg]</span>
+|-
+|1||[[Prinz Eugen]]||Prinz Eugen||[https://www.pixiv.net/artworks/47279550 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_prinz_eugen.jpg]</span>
+|-
+|1||[[Ro-500]]||Ro-chan||[https://twitter.com/atutoku/status/1169637583090905088 atutoku]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_ro-chan.jpg]</span>
+|-
+|1||[[Sado]]||Sado-sama||[https://twitter.com/i/web/status/1004733604751015936 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sado-sama.jpg]</span>
+|-
+|1||[[Samidare]]||Samidares Fav Food||[https://www.pixiv.net/artworks/72059709 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_samidares_fav_food.jpg]</span>
+|-
+|1||[[Samuel B. Roberts]]||Samuel B Roberts||[https://www.pixiv.net/artworks/68425559 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_samuel_b_roberts.jpg]</span>
+|-
+|1||[[Saratoga]]||Saratoga Of The Orient||[https://twitter.com/6thbody/status/836955072479158273 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_saratoga_of_the_orient.jpg]</span>
+|-
+|1||[[Saratoga]]||Saratogas Air Support||[https://www.pixiv.net/artworks/62977369 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_saratogas_air_support.jpg]</span>
+|-
+|1||[[Satsuki]]||Satsuki||[https://www.pixiv.net/artworks/55697036 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_satsuki.jpg]</span>
+|-
+|1||[[Sazanami]]||Sazanami||[https://www.pixiv.net/artworks/38213308 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sazanami.jpg]</span>
+|-
+|1||[[Sendai]]||Sendai Kai Ni||[https://www.pixiv.net/artworks/75748431 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sendai_kai_ni.jpg]</span>
+|-
+|1||[[Sendai]]||Sendai Strike||[https://www.pixiv.net/artworks/62978912 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sendai_strike.jpg]</span>
+|-
+|1||[[Sendai]]||Sendais Shark Plushie||[https://www.pixiv.net/artworks/75378486 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sendais_shark_plushie.jpg]</span>
+|-
+|1||[[Sakawa]]||Serious Sakawa||[https://www.pixiv.net/artworks/44252774 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_serious_sakawa.jpg]</span>
+|-
+|1||[[Samidare]]<br>[[Shigure]]||Shigure And Samidare||[https://www.pixiv.net/artworks/68931142 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_shigure_and_samidare.jpg]</span>
+|-
+|1||[[Shigure]]||Shigures Launch||[https://www.pixiv.net/artworks/74799649 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_shigures_launch.jpg]</span>
+|-
+|1||[[I-400]]<br>[[I-401]]||Shion And Shioi||[https://www.pixiv.net/artworks/66451352 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_shion_and_shioi.jpg]</span>
+|-
+|1||[[Taigei]]||Shopping Duty Taigei||[https://www.pixiv.net/artworks/47251593 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_shopping_duty_taigei.jpg]</span>
+|-
+|1||[[Shoukaku]]||Shoukakus New Power||[https://www.pixiv.net/artworks/53670589 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_shoukakus_new_power.jpg]</span>
+|-
+|1||[[Akatsuki]]<br>[[Hibiki]]<br>[[Ikazuchi]]<br>[[Inazuma]]||Sixth Destroyer Cornvision||[https://www.pixiv.net/artworks/75863234 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sixth_destroyer_cornvision.jpg]</span>
+|-
+|1||[[Akagi]]<br>[[Kaga]]||Sleeping Soundly||[https://www.pixiv.net/artworks/44915183 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sleeping_soundly.jpg]</span>
+|-
+|1||[[Murasame]]||Snowy Murasame||[https://twitter.com/i/web/status/1091346115935391744 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_snowy_murasame.jpg]</span>
+|-
+|1||[[Yamakaze]]||Summer Yamakaze||[https://www.pixiv.net/artworks/70107233 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_summer_yamakaze.jpg]</span>
+|-
+|1||[[Jintsuu]]||Sunset Jintsuu||[https://www.pixiv.net/artworks/53381177 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sunset_jintsuu.jpg]</span>
+|-
+|1||[[Yahagi]]||Sunset Yahagi||[https://www.pixiv.net/artworks/74078181 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sunset_yahagi.jpg]</span>
+|-
+|1||[[Zuikaku]]||Sunset Zuikaku||[https://www.pixiv.net/artworks/47595784 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_sunset_zuikaku.jpg]</span>
+|-
+|1||[[Suzutsuki]]||Suzu-squash||[https://twitter.com/eber_accebeR/status/933714586401828864 eber_accebeR]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_suzu-squash.jpg]</span>
+|-
+|1||[[Yura]]||Swimsuit Yura||[https://www.pixiv.net/artworks/65131273 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_swimsuit_yura.jpg]</span>
+|-
+|1||[[Z1]]||Swimsuit Z1||[https://twitter.com/i/web/status/1165596958209101824 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_swimsuit_z1.jpg]</span>
+|-
+|1||[[Z3]]||Swimsuit Z3||[https://twitter.com/i/web/status/1005041569311756289 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_swimsuit_z3.jpg]</span>
+|-
+|1||[[Tanikaze]]||Tanikaze||[https://www.pixiv.net/artworks/44445238 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_tanikaze.jpg]</span>
+|-
+|1||[[Tatsuta]]||Tatsuta Twirl||[https://www.pixiv.net/artworks/63189457 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_tatsuta_twirl.jpg]</span>
+|-
+|1||[[Kongou]]||Tea Time Desu||[https://www.pixiv.net/artworks/49383627 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_tea_time_desu.jpg]</span>
+|-
+|1||[[Mogami]]||The Last Mogami||[https://www.pixiv.net/artworks/57377544 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_the_last_mogami.jpg]</span>
+|-
+|1||[[I-58]]||The Orel Cruise||[https://www.pixiv.net/artworks/48472221 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_the_orel_cruise.jpg]</span>
+|-
+|1||[[Tone]]||Tone Kai Ni||[https://twitter.com/6thbody/status/875941321243975680 6thbody]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_tone_kai_ni.jpg]</span>
+|-
+|1||[[Kiso]]||Torpedo Cruiser Kiso||[https://twitter.com/i/web/status/930443699196108800 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_torpedo_cruiser_kiso.jpg]</span>
+|-
+|1||[[Tsushima]]||Tsushima||[https://www.pixiv.net/artworks/66936067 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_tsushima.jpg]</span>
+|-
+|1||[[Oboro]]||Umbrella Oboro||[https://www.pixiv.net/artworks/50548952 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_umbrella_oboro.jpg]</span>
+|-
+|1||[[Unryuu]]||Unryuu Or Two||[https://www.pixiv.net/artworks/72621943 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_unryuu_or_two.jpg]</span>
+|-
+|1||[[Urakaze]]||Urakaze||[https://twitter.com/i/web/status/807528267754283009 twitter]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_urakaze.jpg]</span>
+|-
+|1||[[Uzuki]]||Uzuki Pyon||[https://seiga.nicovideo.jp/seiga/im9671014 nicovideo]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_uzuki_pyon.jpg]</span>
+|-
+|1||[[Warspite]]||Warspites Warmsmile||[https://www.pixiv.net/artworks/59516378 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_warspites_warmsmile.jpg]</span>
+|-
+|1||[[Suzuya]]||Winking Suzuya||[https://www.pixiv.net/artworks/65592662 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_winking_suzuya.jpg]</span>
+|-
+|1||[[Yamagumo]]||Yamagumo||[https://www.pixiv.net/artworks/48429215 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_yamagumo.jpg]</span>
+|-
+|1||[[Yahagi]]||Yamatos Twin Sister Yahagi||[https://www.pixiv.net/artworks/69620222 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_yamatos_twin_sister_yahagi.jpg]</span>
+|-
+|1||[[Kongou]]||Yes Admiral||[https://twitter.com/_konkito/status/1163813448397885442 _konkito]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_yes_admiral.jpg]</span>
+|-
+|1||[[Yuudachi]]||Yuudachi Grin||[https://www.pixiv.net/artworks/68186257 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_yuudachi_grin.jpg]</span>
+|-
+|1||[[Yuudachi]]||Yuudachi Kai Ni||[https://www.pixiv.net/artworks/57420202 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_yuudachi_kai_ni.jpg]</span>
+|-
+|1||[[Yuudachi]]||Yuudachi Volley||[https://www.pixiv.net/artworks/76324460 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_yuudachi_volley.jpg]</span>
+|-
+|1||[[Akebono]]<br>[[Zuihou]]||Zuihoubono||[https://www.pixiv.net/artworks/48186690 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_zuihoubono.jpg]</span>
+|-
+|1||[[Zuikaku]]||Zuikakus New Power||[https://www.pixiv.net/artworks/53670589 pixiv]||<span class="external-image" data-width="200">[https://amusementclub.nyc3.cdn.digitaloceanspaces.com/cards/kancolle/1_zuikakus_new_power.jpg]</span>
+|}

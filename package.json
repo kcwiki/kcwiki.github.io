@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "format": "prettier --loglevel warn --write '**/*.{js,jsx,json,md,ts,tsx,yaml,yml,css,html}'",
+    "up": "yarn upgrade --latest"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "serve": "^11.2.0"
+  },
+  "prettier": {
+    "printWidth": 150,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
+}
