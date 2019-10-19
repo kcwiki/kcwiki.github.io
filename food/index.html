@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FoodColle</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" href="/food/index.css" />
+  </head>
+  <body>
+    <div id="tooltip" class="hidden">
+      <p>
+        <span id="value"></span>
+      </p>
+    </div>
+    <div class="tabs is-centered">
+      <ul>
+        <li class="is-active" data-tab="1">
+          <a>お米 | Rice</a>
+        </li>
+        <li data-tab="2">
+          <a>梅干 | Umeboshi</a>
+        </li>
+        <li data-tab="3">
+          <a>海苔 | Nori</a>
+        </li>
+        <li data-tab="4">
+          <a>お茶 | Tea</a>
+        </li>
+      </ul>
+    </div>
+    <div class="tab is-active" data-tab="1">
+      <div class="heatmap-status" id="Rice-status">Loading...</div>
+      <div class="heatmap" id="Rice"></div>
+    </div>
+    <div class="tab" data-tab="2">
+      <div class="heatmap-status" id="Umeboshi-status">Loading...</div>
+      <div class="heatmap" id="Umeboshi"></div>
+    </div>
+    <div class="tab" data-tab="3">
+      <div class="heatmap-status" id="Nori-status">Loading...</div>
+      <div class="heatmap" id="Nori"></div>
+    </div>
+    <div class="tab" data-tab="4">
+      <div class="heatmap-status" id="Tea-status">Loading...</div>
+      <div class="heatmap" id="Tea"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="/food/index.js"></script>
+  </body>
+</html>
